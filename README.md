@@ -18,7 +18,7 @@ I’m passionate about enabling teams to leverage emerging technologies and driv
 ------------------------------------------------------------------------------------------------------------------------------------
   [![Book advisory session today](https://amitpuri.github.io/artifacts/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
 ------------------------------------------------------------------------------------------------------------------------------------
-  [![Citizen Development in Microsoft 365 Book Promotion](https://amitpuri.github.io/artifacts/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.citizendeveloper.codes)
+  [![Citizen Development in Microsoft 365 Book Promotion](https://amitpuri.github.io/artifacts/assets/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.citizendeveloper.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------

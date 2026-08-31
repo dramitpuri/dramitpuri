@@ -16,9 +16,9 @@ My expertise spans cloud adoption, AI integration, and strategic technology cons
 I’m passionate about enabling teams to leverage emerging technologies and driving business growth through effective digital strategies.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-  [![Book advisory session today](https://cdn.openagi.codes/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
+  [![Book advisory session today](https://amitpuri.github.io/artifacts/images/header-brand-wide.gif)](https://bit.ly/topmate-ap)
 ------------------------------------------------------------------------------------------------------------------------------------
-  [![Citizen Development in Microsoft 365 Book Promotion](https://cdn.openagi.codes/assets/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.citizendeveloper.codes)
+  [![Citizen Development in Microsoft 365 Book Promotion](https://amitpuri.github.io/artifacts/images/ebook-cd-m365/m365-book-promo-banner-01.png)](https://go.citizendeveloper.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
 > Focus on improving yourself and not proving yourself.
 ------------------------------------------------------------------------------------------------------------------------------------
